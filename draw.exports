@@ -1,0 +1,6 @@
+drawInitialize
+drawInitializeWithHandlers
+drawTerminate
+drawPrintStackTrace
+mlxDraw
+

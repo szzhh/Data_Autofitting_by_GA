@@ -1,0 +1,8 @@
+LIBRARY draw
+EXPORTS
+drawInitialize
+drawInitializeWithHandlers
+drawTerminate
+drawPrintStackTrace
+mlxDraw
+
